@@ -1,0 +1,26 @@
+body{
+    position: fixed;
+}
+.base{
+        background-color:white;
+        height: 400px;
+        width:400px;
+        margin: 10;
+        float:left;
+}
+table{
+    position: relative;
+    width: 400px; 
+    height:400px;
+}
+th{
+    border: 3px solid black;
+}
+th{
+    padding: 2px;
+}
+table{
+    transform scale: 3;
+    border-collapse:collapse;
+}
+
